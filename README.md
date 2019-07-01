@@ -15,3 +15,4 @@ You can’t manage what you can’t measure, therefore, analyzing the energy con
 - Ability to identify and eliminate wasted energy.
 
 Part of this project was made by using Tableau to generate some visual graphs and a dashboard.
+[https://public.tableau.com/profile/bahij.ghata#!/vizhome/DashboardAnalysisofEnergyConsumption/FirstSlide?publish=yes]
