@@ -1,4 +1,8 @@
-# Energy-Consumption-Analysis-R-
+# Energy-Consumption-Analysis
+
+## About 
+
+
 In this project, I worked on 47 months of data from a household in France involving 3 sub-meters, 
 and I used R to be able to do my analysis and visualizations.
 
@@ -15,4 +19,7 @@ You can’t manage what you can’t measure, therefore, analyzing the energy con
 - Ability to identify and eliminate wasted energy.
 
 Part of this project was made by using Tableau to generate some visual graphs and a dashboard.
-[Click here to navigate to Tableau Dashboard](https://public.tableau.com/profile/bahij.ghata#!/vizhome/DashboardAnalysisofEnergyConsumption/FirstSlide?publish=yes)
+
+[Click here to download Tableau Dashboard](https://public.tableau.com/workbooks/DashboardAnalysisofEnergyConsumption.twb)
+
+
