@@ -1,10 +1,11 @@
-# Energy-Consumption-Analysis
+# Energy_Consumption_Analysis
 
 ## About 
 
 
-In this project, I worked on 47 months of data from a household in France involving 3 sub-meters, 
-and I used R to be able to do my analysis and visualizations.
+Analyzing individual household electric power consumption dataset.
+
+The dataset is based on 2,075,259 measurements gathered in a house located in Sceaux (7km of Paris, France) between December 2006 and November 2010 (47 months).
 
 The purpose of this study is to detect possible patterns in energy consumption by analyzing sub-meters readings 
 which will allow the client to allocating costs to cut, or distribute the consumption on different periods of time.
