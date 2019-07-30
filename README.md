@@ -1,6 +1,6 @@
 # Energy_Consumption_Analysis
 
-## About 
+## Data Overview: 
 
 
 Analyzing individual household electric power consumption dataset.
@@ -9,6 +9,8 @@ The dataset is based on 2,075,259 measurements gathered in a house located in Sc
 
 The purpose of this study is to detect possible patterns in energy consumption by analyzing sub-meters readings 
 which will allow the client to allocating costs to cut, or distribute the consumption on different periods of time.
+
+## Data pre-processing:
 
 You can’t manage what you can’t measure, therefore, analyzing the energy consumption will lead to:
 
