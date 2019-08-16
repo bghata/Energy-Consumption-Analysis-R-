@@ -12,6 +12,11 @@ which will allow the client to allocating costs to cut, or distribute the consum
 
 ## Data pre-processing:
 
+Since the data in 2006 was based only on the month of December, therefore, during the data pre-processing, 
+the year 2006 was excluded.
+
+Data range was based on January 2007 till November 2010.
+
 You can’t manage what you can’t measure, therefore, analyzing the energy consumption will lead to:
 
 - Accurate energy monitoring, real-time energy consumption. 
