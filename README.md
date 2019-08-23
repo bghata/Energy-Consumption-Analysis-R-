@@ -10,6 +10,16 @@ The dataset is based on 2,075,259 measurements gathered in a house located in Sc
 The purpose of this study is to detect possible patterns in energy consumption by analyzing sub-meters readings 
 which will allow the client to allocating costs to cut, or distribute the consumption on different periods of time.
 
+## Defining the Attributes:
+
+1.date: Date in format dd/mm/yyyy
+2.time: time in format hh:mm:ss
+3.global_active_power: household global minute-averaged active power (in kilowatt)
+4.global_reactive_power: household global minute-averaged reactive power (in kilowatt)
+5.voltage: minute-averaged voltage (in volt)
+6.global_intensity: household global minute-averaged current intensity (in ampere)
+
+
 ## Data pre-processing:
 
 Since the data in 2006 was based only on the month of December, therefore, during the data pre-processing, 
